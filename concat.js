@@ -1,1 +1,0 @@
-/*	Simple list concatination, jens alexander ewald, http://ififelse.net © 2012*/function anything() { outlet(0,arrayfromargs(messagename,arguments).join("")) }

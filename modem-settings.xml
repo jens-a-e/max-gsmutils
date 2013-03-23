@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "modem-settings">
+	<slot number = "1">
+		<pattr name = "Auto answer after how may rings? (min. 1)" value = "1" />
+		<pattr name = "Seconds until auto hangup" value = "40" />
+		<pattr name = "comport" value = "usbserial-AH01DOT8" />
+		<pattr name = "debugState" value = "0" />
+	</slot>
+</pattrstorage>
+
